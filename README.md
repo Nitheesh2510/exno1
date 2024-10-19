@@ -104,4 +104,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+   Thus the given data is read and data cleaning is performed
